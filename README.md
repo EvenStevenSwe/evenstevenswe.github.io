@@ -1,1 +1,3 @@
-# En oerhört gammal sida, vilket syns på tekniken. Uppladdat på github som ett test.
+# KitKat
+
+Ett gammalt hobbyprojekt, vilket syns på tekniken. Upplagd för att visa tidigare gjorda saker.
